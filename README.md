@@ -42,7 +42,7 @@ Nos testes experimentais em ambiente controlado, o sistema respondeu em **menos 
 
 | Item | Link |
 |------|------|
-| 📕 Artigo/TCC completo (PDF) | [Baixar documento](./docs/Sistema_Embarcado_de_Deteccao_contra_Incendio.pdf) |
+| 📕 Artigo/TCC completo (PDF) | [Baixar documento](./docs/Sistema%20Embarcado%20de%20Detec%C3%A7%C3%A3o%20contra%20Inc%C3%AAndio%20com%20Integra%C3%A7%C3%A3o%20a%20Painel%20El%C3%A9trico%20CCM%20CLP.pdf) |
 | 🎞️ Apresentação (slides) | [Ver slides](./docs/apresentacao.pdf) |
 | 🎥 Vídeo do protótipo | [Assistir](#) |
 
