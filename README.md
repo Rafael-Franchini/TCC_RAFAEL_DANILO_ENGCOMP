@@ -44,7 +44,7 @@ Nos testes experimentais em ambiente controlado, o sistema respondeu em **menos 
 |------|------|
 | 📕 Artigo/TCC completo (PDF) | [Baixar documento](./docs/Sistema%20Embarcado%20de%20Detec%C3%A7%C3%A3o%20contra%20Inc%C3%AAndio%20com%20Integra%C3%A7%C3%A3o%20a%20Painel%20El%C3%A9trico%20CCM%20CLP.pdf) |
 | 🎞️ Apresentação (slides) | [Ver slides](./docs/Apresenta%C3%A7%C3%A3o%20TCC.pdf)|
-| 🎥 Vídeo do protótipo | [Assistir](#) |
+| 🎥 Vídeo do protótipo | <video src="https://github.com/user-attachments/assets/b0034932-cd5c-489d-9bc9-b2d10ab7d9e8" width="300" controls></video> |
 
 ---
 
